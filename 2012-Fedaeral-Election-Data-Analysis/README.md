@@ -36,8 +36,7 @@ python --version
 1. **Clone the repository**
 
 ```bash
-
-git clone [https://github.com/yourusername/2012-fec-data-analysis.git](https://github.com/yourusername/2012-fec-data-analysis.git) cd 2012-fec-data-analysis
+git clone https://github.com/yourusername/2012-fec-data-analysis.git
 
 ````
 
@@ -85,7 +84,7 @@ seaborn
 
 ## 📜 License
 ```
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/apabritamaity/Data-Analytics-Projects-With-Python/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
 ```
 
 > Created with ❤️ by Apabrita Maity
